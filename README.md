@@ -1,2 +1,2 @@
 # car-phone-androidApp
-手机端
+车子的手机控制端
